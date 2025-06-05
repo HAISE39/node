@@ -1,2 +1,0 @@
-# node
-This bot
